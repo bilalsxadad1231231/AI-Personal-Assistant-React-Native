@@ -25,7 +25,7 @@ Whether you're a student, researcher, or professional, this assistant is designe
 ## 🎥 Demo Video
 
 <div align="center">
-  <video src="https://github.com/bilalsxadad1231231/AI-Personal-Assistant-React-Native/blob/main/assets/demo.mp4" controls width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <video src="./assets/demo.mp4" controls width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     Your browser does not support the video tag.
   </video>
 </div>
