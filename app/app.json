@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "AI Assistant",
+    "slug": "ai-assistant",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.mbilalswat5.aiassistant",
+      "versionCode": 1,
+      "permissions": [
+        "INTERNET",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECORD_AUDIO",
+        "VIBRATE"
+      ]
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e34e36d6-fca8-4170-9246-0762eae2a55b"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
